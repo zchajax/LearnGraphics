@@ -15,7 +15,13 @@
 
 [Ray Marching](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 
+[Learn DirectX12](https://www.3dgep.com/learning-directx-12-1/)
+
+[Learn OpenGL](https://learnopengl.com/)
+
 [Alan Zucconi](http://www.alanzucconi.com)
+
+[Learn Graphics from scratch](https://www.scratchapixel.com/)
 
 [Keijiro’s GitHub page](https://github.com/keijiro)
 
