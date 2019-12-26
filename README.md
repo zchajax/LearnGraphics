@@ -26,3 +26,5 @@
 [Keijiro’s GitHub page](https://github.com/keijiro)
 
 [Ronja’s tutorials](https://www.ronja-tutorials.com)
+
+[Walking Fat](http://walkingfat.com/category/graphics/)
