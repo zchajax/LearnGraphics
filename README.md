@@ -28,3 +28,5 @@
 [Ronja’s tutorials](https://www.ronja-tutorials.com)
 
 [Walking Fat](http://walkingfat.com/category/graphics/)
+
+[Adrian Courrèges](http://www.adriancourreges.com/blog/)
