@@ -30,3 +30,5 @@
 [Walking Fat](http://walkingfat.com/category/graphics/)
 
 [Adrian Courrèges](http://www.adriancourreges.com/blog/)
+
+[Witcher3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
