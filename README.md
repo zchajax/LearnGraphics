@@ -34,3 +34,5 @@
 [Witcher3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
 
 [Gabriel Sassone](https://jorenjoestar.github.io/#posts)
+
+[Gpu gems performace](https://developer.nvidia.com/sites/all/modules/custom/gpugems/books/GPUGems/gpugems_ch28.html)
