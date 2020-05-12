@@ -36,3 +36,14 @@
 [Gabriel Sassone](https://jorenjoestar.github.io/#posts)
 
 [Gpu gems performace](https://developer.nvidia.com/sites/all/modules/custom/gpugems/books/GPUGems/gpugems_ch28.html)
+
+## Unity Ocean Rendering
+
+
+[crest-ocean](https://github.com/crest-ocean/crest)
+
+[BoatAttack](https://github.com/Verasl/BoatAttack)
+
+[ceto](https://github.com/Scrawk/Ceto)
+
+
