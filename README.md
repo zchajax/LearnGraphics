@@ -35,6 +35,8 @@
 
 [Gabriel Sassone](https://jorenjoestar.github.io/#posts)
 
+[Demofox Blog](https://blog.demofox.org/)
+
 [Gpu gems performace](https://developer.nvidia.com/sites/all/modules/custom/gpugems/books/GPUGems/gpugems_ch28.html)
 
 ## Unity Ocean Rendering
