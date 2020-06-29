@@ -37,6 +37,12 @@
 
 [Demofox Blog](https://blog.demofox.org/)
 
+[Minionsart](https://www.patreon.com/minionsart)
+
+[Ronja's Shader](https://www.ronja-tutorials.com/)
+
+[Linden Reid's tutorials](https://lindenreid.wordpress.com/all-tutorials/)
+
 [Gpu gems performace](https://developer.nvidia.com/sites/all/modules/custom/gpugems/books/GPUGems/gpugems_ch28.html)
 
 ## Unity Ocean Rendering
