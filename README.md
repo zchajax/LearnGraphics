@@ -41,6 +41,8 @@
 
 [Ronja's Shader](https://www.ronja-tutorials.com/)
 
+[Daniel Ilett](https://danielilett.com/tutorials/)
+
 [Linden Reid's tutorials](https://lindenreid.wordpress.com/all-tutorials/)
 
 [Gpu gems performace](https://developer.nvidia.com/sites/all/modules/custom/gpugems/books/GPUGems/gpugems_ch28.html)
