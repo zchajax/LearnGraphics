@@ -53,6 +53,8 @@
 
 [Ray Wender Lich](https://www.raywenderlich.com/unity)
 
+[The Game Dev](https://thegamedev.guru/)
+
 ## Unity Ocean Rendering
 
 
