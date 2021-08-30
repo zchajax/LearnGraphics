@@ -1,6 +1,8 @@
 # LearnGraphics
 ## Some graphics learning sites
 
+[Therealmjp](https://therealmjp.github.io/posts/)
+
 [Catlike coding](http://catlikecoding.com)
 
 [Harry Alisavakis](https://halisavakis.com/archive/)
